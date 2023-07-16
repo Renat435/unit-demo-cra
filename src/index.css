@@ -2,14 +2,15 @@ body {
     padding: 20px;
 }
 
+.done {
+    text-decoration: line-through;
+}
+
 input,
 a {
     margin-right: 8px;
 }
 
-.done {
-    text-decoration: line-through;
-}
 
 .list {
     margin-top: 12px;
